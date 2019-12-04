@@ -20,3 +20,8 @@ https://github.com/StylishThemes/StackOverflow-Dark
 
 ## Trello
 https://userstyles.org/styles/167605/material-dark-trello
+
+## Gmail
+Use Gmail's Dark them, then install:
+
+https://github.com/taoufix/user-styles/blob/master/dark-gmail.user.css
