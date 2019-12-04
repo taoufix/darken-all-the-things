@@ -9,6 +9,9 @@ https://github.com/taoufix/google-dark/blob/master/search/search.user.css
 ## Hacker News
 https://userstyles.org/styles/133520/darken-all-the-things-hacker-news
 
+## Github
+https://github.com/taoufix/github-dark
+
 ## GitLab
 https://userstyles.org/styles/164877/dark-gitlab
 
