@@ -1,4 +1,4 @@
-## Inver Colors
+## Invert Colors
 ```
 xcalib -invert -alter
 ```
