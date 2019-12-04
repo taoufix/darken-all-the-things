@@ -14,3 +14,6 @@ https://userstyles.org/styles/164877/dark-gitlab
 
 ## Stack-Overflow
 https://github.com/StylishThemes/StackOverflow-Dark
+
+## Trello
+https://userstyles.org/styles/167605/material-dark-trello
