@@ -39,3 +39,7 @@ https://userstyles.org/styles/167605/material-dark-trello
 Use Gmail's Dark them, then install:
 
 https://github.com/taoufix/user-styles/blob/master/dark-gmail.user.css
+
+### Whatsapp
+https://userstyles.org/styles/170304/clean-dark-whatsapp-theme-hopp
+
