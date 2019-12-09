@@ -43,10 +43,12 @@ https://github.com/taoufix/user-styles/blob/master/dark-gmail.user.css
 ### Whatsapp
 https://userstyles.org/styles/170304/clean-dark-whatsapp-theme-hopp
 
-# Webapps with Dark theme
+# Webapps with Dark themes
 ## Slack
 Project dropdown icon: ▼ > Preferences > Themes > Dark
 
 ## Google Keep
 Settings: :gear: > Enable dark theme.
 
+## Dev.to
+Profile icon > Settings > Misc > Style Customization > Site Theme > night theme
