@@ -36,7 +36,7 @@ https://github.com/StylishThemes/StackOverflow-Dark
 https://userstyles.org/styles/167605/material-dark-trello
 
 ### Gmail
-Use Gmail's Dark them (Settings (:gear:) > Theme > Dark),  then install:
+Use Gmail's Dark them (Settings: :gear: > Theme > Dark),  then install:
 
 https://github.com/taoufix/user-styles/blob/master/dark-gmail.user.css
 
@@ -45,8 +45,8 @@ https://userstyles.org/styles/170304/clean-dark-whatsapp-theme-hopp
 
 # Webapps with Dark theme
 ## Slack
-Project dropdown icon (▼) > Preferences > Themes > Dark
+Project dropdown icon: ▼ > Preferences > Themes > Dark
 
 ## Google Keep
-Settings (:gear:) > Enable dark theme.
+Settings: :gear: > Enable dark theme.
 
